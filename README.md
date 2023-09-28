@@ -18,7 +18,9 @@ The Leptos framework is most likely the easiest of the two to get down, and will
 I hope i can have a semi working, self hosted, non crashing prototype by the end of the next couple of months. Studies killing me so i might not have that much time. My goal is to work on the skillset 
 required every day atleast.
 
+I will also try to follow conventional commits conventions in this project to try out the different tools that can be applied. Just for funsies.
 
+[CC Specification](https://www.conventionalcommits.org/en/v1.0.0/#specification) 
 ### Handy information
 
 [Wgpu Tutorial](https://sotrh.github.io/learn-wgpu/#what-is-wgpu)
