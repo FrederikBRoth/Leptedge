@@ -17,3 +17,10 @@ The Leptos framework is most likely the easiest of the two to get down, and will
 
 I hope i can have a semi working, self hosted, non crashing prototype by the end of the next couple of months. Studies killing me so i might not have that much time. My goal is to work on the skillset 
 required every day atleast.
+
+
+### Handy information
+
+[Wgpu Tutorial](https://sotrh.github.io/learn-wgpu/#what-is-wgpu)
+
+[Compute shading using Wgpu](https://github.com/googlefonts/compute-shader-101)
